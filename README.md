@@ -1,14 +1,14 @@
 <div> <h1 align="center"> Kenan Yildirim </h1> </div>
 <p>- Interested in Data Science </p>
 <p>- Currently working on Machine Learning </p>
-<p>- Lifetime learner and nowadays he learns Azure Data Science and Databricks Spark Apache </p>
+<p>- Lifetime learner and nowadays he learns AWS Model Deployment </p>
 <p>- Honored to share his experience and knowledge with everone and always be eager to learn </p>
 <p>- 📫 How to reach yildirimkenan1980ds@gmail.com</p>
 
 <div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
-<a href="https://www.linkedin.com/in/arslanevren/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:earslan4e@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+<a href="https://www.linkedin.com/in/kenan-yildirim-34331420b/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yildirimkenan1980ds@gmail"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 <a href="https://medium.com/@arslanevren"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=KYildirimds" alt="KYildirimds" height="28"/></a>
 </p></div>
@@ -58,7 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KYildirimds&repo=Projekte&theme=algolia" />
 </a>
 
-<a href="https://github.com/KYildirimds/Data Science">
+<a href="https://github.com/KYildirimds/Machine-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KYildirimds&repo=Data Science&theme=algolia" />
 </a>
 </p>
