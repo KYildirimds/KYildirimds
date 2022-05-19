@@ -54,8 +54,8 @@
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 <p align="center">
-<a href="https://github.com/KYildirimds/Projekte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KYildirimds&repo=Projekte&theme=algolia" />
+<a href="https://github.com/KYildirimds/Data-Anylysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KYildirimds&repo=Data-Anylysis&theme=algolia" />
 </a>
 
 <a href="https://github.com/KYildirimds/Machine-Learning">
