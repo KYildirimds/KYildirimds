@@ -59,7 +59,7 @@
 </a>
 
 <a href="https://github.com/KYildirimds/Machine-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KYildirimds&repo=Data Science&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KYildirimds&repo=Machine-Learning&theme=algolia" />
 </a>
 </p>
   
