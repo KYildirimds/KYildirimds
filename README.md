@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kenan-yildirim-34331420b/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yildirimkenan1980ds@gmail"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
-<a href="https://www.kaggle.com/kenanyildirim"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.kaggle.com/kenanyildirim"><img src="https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=KYildirimds" alt="KYildirimds" height="28"/></a>
 </p></div>
 
