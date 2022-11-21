@@ -1,6 +1,6 @@
 <div> <h1 align="center"> Kenan Yildirim </h1> </div>
 <p>- Interested in Data Analytics/Science </p>
-<p>- Currently working on MS SQL, MS POWER BI, TABLEAU </p>
+<p>- Currently working on MS SQL, MS POWER BI, TABLEAU, MACHINE LEARNING </p>
 <p>- Lifetime learner and nowadays he learns AWS Model Deployment </p>
 <p>- Honored to share his experience and knowledge with everone and always be eager to learn </p>
 <p>- 📫 How to reach yildirimkenan1980ds@gmail.com</p>
